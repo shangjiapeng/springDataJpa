@@ -1,0 +1,6 @@
+# Project exclude paths
+/jpa_01/target/
+/jpa_03-many2many/target/
+/jpa_03-one2many/target/
+/springData-jpa/target/
+/springData-jpa-spec/target/

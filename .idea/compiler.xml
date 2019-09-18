@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="jpa_03-many2many" />
+        <module name="jpa_01" />
+        <module name="springData-jpa" />
+        <module name="jpa_03-one2many" />
+        <module name="springData-jpa-spec" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="jpa_01" target="1.5" />
+      <module name="jpa_03-many2many" target="1.5" />
+      <module name="jpa_03-one2many" target="1.5" />
+      <module name="springData-jpa" target="1.5" />
+      <module name="springData-jpa-spec" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
